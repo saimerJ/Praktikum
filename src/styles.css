@@ -1,0 +1,50 @@
+body {
+  background-color: black;
+}
+html {
+  margin: 0;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: black;
+}
+
+li.navEl {
+  display: block;
+  color: white;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+li.navEl:hover {
+  background-color: royalblue;
+  color: red;
+}
+p {
+  font-size: 50px;
+}
+#nav {
+  font-style: Garamond;
+  width: 20vw;
+  float: left;
+}
+#home {
+  width: 80vw;
+}
+#footer {
+  color: white;
+  width: 100vw;
+}
+.navEl {
+  font-style: Garamond;
+  font-size: 50px;
+}
+
+.page {
+  color: white;
+  width: 100vw;
+  height: 100vh;
+}

@@ -1,2 +1,0 @@
-# Praktikum
-Created with CodeSandbox
